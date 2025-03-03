@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Minecraft Items as Town Names
+STR_GRF_DESCRIPTION :Exactly what it says on the tin. Items from 1.17.1. By ThaNook.
+STR_STYLES : Minecraft
