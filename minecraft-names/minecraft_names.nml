@@ -4,7 +4,7 @@
 //
 
 grf {
-	grfid:	"DD\01\01";
+	grfid:	"TH\36\21";
 	name:	string(STR_GRF_NAME);
 	desc:	string(STR_GRF_DESCRIPTION);
 	version: 0;
